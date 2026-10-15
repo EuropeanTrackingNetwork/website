@@ -8,5 +8,5 @@ permalink: /
 
 We are a community and data management system for tracking aquatic animals in Europe.
 
-[Learn more](/about-us/){:.btn .btn-primary}
+[Learn more]({{ '/about-us/' | relative_url }}){:.btn .btn-primary}
 [ETN Data Platform](https://lifewatch.be/etn/){:.btn .btn-outline-primary}

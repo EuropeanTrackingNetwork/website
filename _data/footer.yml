@@ -7,11 +7,11 @@ columns:
       The European Network Network is funded through Horizon Europe, Biodiversa and Sustainable Blue Economy.
     links:
       - text: Data Policy
-        href: /data-policy/
+        href: /data-policy/ # TODO: update
       - text: Contact
-        href: /contact/
-  - description: >
-      ![ETN logo](/assets/logos/etn-logo.png){:.img-fluid style="width: 150px;"}
+        href: /contact/ # TODO: update
+  - description: > # TODO: update
+      ![ETN logo](/etn/assets/logos/etn-logo.png){:.img-fluid style="width: 150px;"}
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
