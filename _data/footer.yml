@@ -11,7 +11,7 @@ columns:
       - text: Contact
         href: /contact/ # TODO: update
   - description: > # TODO: update
-      ![ETN logo](/etn/assets/logos/etn-logo.png){:.img-fluid style="width: 150px;"}
+      ![ETN logo](/etn/assets/logos/etn.png){:.img-fluid style="width: 150px;"}
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
