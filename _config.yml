@@ -1,0 +1,50 @@
+# SITE SETTINGS
+title: European Tracking Network
+# author: TODO
+url: "https://europeantrackingnetwork.org"
+baseurl: ""
+
+# SOCIAL PROFILES
+social:
+  email: info@europeantrackingnetwork.org
+  bluesky: aquatictracking.bsky.social
+  instagram: https://www.instagram.com/aquatictracking # TODO
+  linkedin: https://www.linkedin.com/company/european-tracking-network/
+  github: europeantrackingnetwork
+
+# THEME SETTINGS (ALL OPTIONAL)
+theme: minima
+remote_theme: peterdesmet/petridish@3.1
+posts_on_home: 2
+archive_permalink: /news/
+github_edit: true
+colors:
+  links: "#14629c"
+  banner: "#ffef2b"
+  footer: "#14629c"
+logo: /assets/logos/etn-logo.png
+rounded_corners: false
+font_serif: false
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+    values:
+      background: /assets/backgrounds/adobe_stock_335174953.jpg
+  - scope:
+      type: posts
+    values:
+      permalink: "/blog/:slug/"
+      comments: true
