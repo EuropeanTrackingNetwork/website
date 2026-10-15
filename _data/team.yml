@@ -1,0 +1,53 @@
+# Project team members listed below will appear on the /who-we-are page
+- name: Jan Reubens
+  role: Chair
+  image: /assets/images/jan-reubens.jpg
+  description: Flanders Marine Institute (VLIZ)
+- name: Kim Aarestrup
+  role: Infrastructure & Tech Development
+  image: /assets/images/kim-aarestrup.jpg
+  description: Technical University of Denmark
+- name: Ross McGill
+  role: Infrastructure
+  image: /assets/images/ross-mcgill.jpg
+  description: Loughs Agency
+- name: Inge van der Knaap
+  role: Integration & Embedding
+  image: /assets/images/inge-van-der-knaap.jpg
+  description: Institute of Marine Research, Norway
+- name: Pedro Afonso
+  role: Integration & Embedding
+  image: /assets/images/pedro-afonso.jpg
+  description: University of the Azores
+- name: Danielle Orrell
+  role: Integration & Embedding
+  image: /assets/images/danielle-orrell.jpg
+  description: University College Cork
+- name: David Abecasis
+  role: Theoretical & Applied Research
+  image: /assets/images/david-abecasis.jpg
+  description: Centro de Ciências do Mar
+- name: Josep Alós
+  role: Theoretical & Applied Research
+  image: /assets/images/josep-alos.jpg
+  description: Spanish National Research Council
+- name: David Villegas-Rios
+  role: Theoretical & Applied Research
+  image: /assets/images/david-villegas-rios.jpg
+  description: Spanish National Research Council
+- name: Kim Birnie-Gauvin
+  role: Communications Manager
+  image: /assets/images/kim-birnie-gauvin.jpg
+  description: Technical University of Denmark
+- name: Lotte Pohl
+  role: Communications & Virtual Research Environment
+  image: /assets/images/lotte-pohl.jpg
+  description: Flanders Marine Institute (VLIZ)
+- name: Robert Lennox
+  role: Funding
+  image: /assets/images/robert-lennox.jpg
+  description: Ocean Tracking Network
+- name: Claudia Meneses
+  role: Data Management
+  image: /assets/images/claudia-meneses.jpg
+  description: Flanders Marine Institute (VLIZ)
