@@ -1,8 +1,8 @@
 # SITE SETTINGS
 title: European Tracking Network
 # author: TODO
-url: "https://europeantrackingnetwork.org"
-baseurl: ""
+# url: "https://europeantrackingnetwork.org" # TODO
+baseurl: "/etn"
 
 # SOCIAL PROFILES
 social:
