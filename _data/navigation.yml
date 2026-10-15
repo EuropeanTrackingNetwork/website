@@ -1,0 +1,30 @@
+# Links listed below will be included in your site navigation
+
+- text: Home
+  href: /
+- text: About us
+  menu:
+  - text: About us # TODO: better name?
+    href: about-us
+  - text: Who we are
+    href: who-we-are
+  - text: Join ETN
+    href: join-etn
+# - text: Tracking TODO: hidden
+#   href: types-of-projects
+- text: Data
+  menu:
+  - text: Data policy & citation guidelines # TODO: new
+    href: /data-policy/
+- text: Compatability
+  menu:
+  - text: Compatibility in tag protocols
+    href: /compatibility/
+- text: Projects
+  menu:
+  - text: STRAITS
+    href: /straits/
+- text: Stewardship
+  href: /stewardship/
+- text: Contact
+  href: /contact/
