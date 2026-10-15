@@ -6,7 +6,7 @@ background: /assets/backgrounds/adobe_stock_335174953.jpg
 permalink: /
 ---
 
-We are a community and data management system for tracking aquatic animals in Europe.
+Our mission is to track aquatic animals across Europe to better understand, protect and manage them.
 
 [Learn more]({{ '/about-us/' | relative_url }}){:.btn .btn-primary}
 [ETN Data Platform](https://lifewatch.be/etn/){:.btn .btn-outline-primary}
