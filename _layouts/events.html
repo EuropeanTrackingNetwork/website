@@ -1,0 +1,18 @@
+---
+layout: default
+description: Template for events page.
+---
+
+{{ content }}
+
+{% assign events = site.data.events | sort: "date" | reverse %}
+
+<!-- TODO: better styling -->
+{% for event in events %}
+<div>
+  <h4><a href="{{ event.href }}">{{ event.title }}</a></h4>
+  <h6 class="text-body-tertiary">{{ event.date | date: '%B %d, %Y' }}</h6>
+  <div>{{ event.description }}</div>
+</div>
+<hr>
+{% endfor %}
