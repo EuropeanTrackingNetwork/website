@@ -95,4 +95,4 @@ Ensuring that valuable insights from telemetry find their way into policy can be
 
 The ETN Symposium 2026 is supported by the STRAITS project. This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101094649. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. The European Union cannot be held responsible for them.
 
-![EU funded]({{ '/assets/images/eu-funded.jpg' | relative_url }}){:.w-50}<!-- TODO: update url-->
+![EU funded]({{ '/assets/logos/eu-funded.jpg' | relative_url }}){:.w-50}<!-- TODO: update url-->
