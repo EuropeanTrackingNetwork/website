@@ -12,10 +12,15 @@
     href: join-etn
   - text: Events
     href: events
+  - text: Merch 👕
+    href: https://shop.vliz.be/collections/european-tracking-network
   - text: ETN Symposium
     href: /etn-symposium/
   - text: ETNewsletter
     href: /etnewsletter/
+  - text: PI Telemetry Database
+    href: https://docs.google.com/spreadsheets/d/1jZtEblmPiTPeaTJcs-4XyxXXKn09_cpzsQRGphNNRb8/edit?gid=0#gid=0
+    new_window: true
 # - text: Tracking TODO: hidden
 #   href: types-of-projects
 - text: Data
